@@ -1,2 +1,2 @@
 # MovieTicketsFlow
-Movie Tickets using flow
+Movie Tickets tutorial (http://rationalappdev.com/movie-tickets-booking-app-with-react-native/) using flow
